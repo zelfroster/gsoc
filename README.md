@@ -1,2 +1,3 @@
-# GSoC-Todo
-A todolist to keep check of my GSoC timeline.
+# GSoC
+A repo which contains all of my GSoC stuff.
+![GSoC Image](./images/1200px-GSoC-logo-horizontal.png)
