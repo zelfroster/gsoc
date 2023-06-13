@@ -5,7 +5,7 @@
 - [X] Implement Mail Config
   - [X] custom Tag feature
   - [X] manage permission for distant message
-- [O] Fix Network Config and Add features
+- [X] Fix Network Config and Add features
   - [X] Implement Set Dynamic DNS
   - [X] Implement TOR/I2P Proxy Configuration
   - [X] Fix NAT Configuration feature
