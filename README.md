@@ -2,10 +2,12 @@
 
 <hr />
 
-This is the Blog I have written before the starting of Coding Period on 
-Freifunk's Blog 
+These are the Blogs I have written during GSoC on Freifunk's Blog 
   - <a href='https://blog.freifunk.net/2023/05/22/gsoc23-implementation-of-webui-of-retroshare/' target='_blank'>
       GSoC’23 : Implementation of Web Interface of Retroshare
+    </a>
+  - <a href='https://blog.freifunk.net/2023/07/08/gsoc23-implementation-of-web-interface-of-retroshare-part-2/' target='_blank'>
+      GSoC’23 : Implementation of Web Interface of Retroshare - Part 2
     </a>
 
 <br />

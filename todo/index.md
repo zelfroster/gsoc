@@ -19,5 +19,8 @@
   - [X] Add necessary JSON api docs.
 - [X] Implement Appearance Config specially for webui
 ##### June 26 - July 10
-- [ ] Fix Compose Mail Feature
-- [ ] Implement Reply, Reply All, Forward feature in Mail section.
+- [X] Fix Compose Mail Feature
+  - [X] Improved recipients input section.
+  - [X] Improved the UI of composer and mad it look like gmail mail composer
+- [ ] ~~Implement Reply, Reply All, Forward feature in Mail section.~~
+- [X] Implemented a way to see download chunks in the download bar.
